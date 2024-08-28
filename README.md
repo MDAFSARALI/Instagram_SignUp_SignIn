@@ -2,7 +2,7 @@
 # Project Overview
 This project is a React application that simulates a user page similar to Instagram. The primary focus of this assignment is to implement conditional rendering, allowing users to either sign up or log in based on their selection. The user interface dynamically displays different input fields depending on the user's choice, making the interaction intuitive and user-friendly.
 
-# Features
+# Features: 
 Conditional Rendering: The application conditionally renders different views for signing up and logging in.
 Responsive User Interface: A clean and intuitive design inspired by Instagram.
 User Inputs:
